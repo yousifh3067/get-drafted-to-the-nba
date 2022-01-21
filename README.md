@@ -1,4 +1,4 @@
-file# get-drafted-to-the-nba
+# get-drafted-to-the-nba
 ## Journey to getting Drafted
 ---
 The purpose of this project is to create our own stories while utilizing our git and git hub skills.
