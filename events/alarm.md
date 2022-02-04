@@ -2,7 +2,7 @@
 ---
 Your alarm goes off in the morning. What do you want to do?
 
-[Get out of bed](run.md)
+[Get out of bed and go for a ](run.md)
 
 OR
 
