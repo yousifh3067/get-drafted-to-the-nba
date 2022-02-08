@@ -2,8 +2,8 @@
 ---
 You went for an early run. What do you want to do?
 
-[Got to an early morning shoot around](basketball-court-early.md)
+[Chill for the whole day](chill.md)
 
 OR
 
-[Run to the nearest store to buy breakfast](tesla.)
+[go play basketball for 3 hours](3hours.md)
