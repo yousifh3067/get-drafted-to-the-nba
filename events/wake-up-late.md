@@ -6,4 +6,4 @@ Nice you wake up late. What do you want to do now?
 
 OR
 
-[Grind for 3 hours](grind.md)
+[Go Grind for 3 hours of basketball](grind.md)
