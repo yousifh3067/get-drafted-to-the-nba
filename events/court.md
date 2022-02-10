@@ -4,7 +4,7 @@ You play for 12 hours of playing basketball. SO you were very tired so you when 
 
 [Congrats you make it to number 1](NBA.md)
 
-[Reset Life](alarm.md)
+
 
 
 
